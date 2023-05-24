@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Redux, Node.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://harsh-singh-chauhan-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://harah-singh-chauhan-11.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JS, ReactJS and DSA**
 
